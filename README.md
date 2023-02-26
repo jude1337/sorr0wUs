@@ -590,11 +590,11 @@ Join our [Discord](https://discord.gg/SWv3aXFTAd) if you have any problems or wa
 \
 **9. Duplicate the new Among Us Folder.**\
 \
-**10. Rename it to `Among Us - ToU`.**\
+**10. Rename it to `Among Us - s0U`.**\
 \
 **11. Double-click on the zip file you downloaded.**\
 \
-**12. Drag all the files from the zip file in the new ToU folder.**\
+**12. Drag all the files from the zip file in the new s0U folder.**\
 \
 **13. Finally, launch `Among Us.exe` from that folder.**\
 \
